@@ -1,2 +1,2 @@
 # Django
-first project repositoty
+first django project repositoty
